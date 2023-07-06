@@ -16,8 +16,11 @@
     "version": {
         "Major": 1,
         "Minor": 5,
-        "Patch": 0
+        "Patch": 2
     },
+	"demands": [
+		"Agent.OS -equals Windows_NT"
+	],
     "instanceNameFormat": "Smoke Web Test",
     "groups": [
         {
